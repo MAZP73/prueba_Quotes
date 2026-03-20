@@ -29,4 +29,4 @@ app.include_router(quotes_router, prefix="/quotes", tags=["Quotes"])
 
 @app.get("/", tags=["Health"])
 def root():
-    return {"status": "ok", "message": "Quotes Scraper API corriendo ✅"}
+    return {"status": "ok", "message": "Quotes Scraper API corriendo"}

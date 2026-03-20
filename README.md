@@ -56,10 +56,6 @@ APP_PORT=8000
 DEBUG=True
 ```
 
-> Nota: `POSTGRES_HOST=db` hace referencia al nombre del contenedor PostgreSQL dentro de la red Docker. Si corres el proyecto localmente sin Docker, cambia este valor a `localhost`.
-
----
-
 ## Base de datos
 
 ### Con Docker (automatico)

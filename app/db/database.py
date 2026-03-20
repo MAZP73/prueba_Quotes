@@ -17,7 +17,7 @@ Base = declarative_base()
 
 
 def get_db():
-    """Dependency inyectable para FastAPI."""
+
     db = SessionLocal()
     try:
         yield db
