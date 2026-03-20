@@ -33,7 +33,7 @@ No es necesario instalar Python, Chrome ni PostgreSQL en tu maquina. Todo corre 
 ```bash
 # Clonar el repositorio
 git clone <https://github.com/MAZP73/prueba_Quotes.git>
-cd PRUEBA_TECNICA
+cd prueba_Quotes
 ```
 
 O descarga y descomprime el archivo ZIP, luego abre una terminal dentro de la carpeta extraida.
